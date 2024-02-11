@@ -151,7 +151,7 @@ body {
   justify-content: center;
   -webkit-align-items: center;
   align-items: center;
-  padding: 60px;
+  padding: 0px;
 }
 
 .form-content .form-items {
@@ -159,7 +159,7 @@ body {
   padding: 40px;
   display: inline-block;
   width: 100%;
-  min-width: 540px;
+  min-width:370px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -482,3 +482,6 @@ ol, ul {
     margin: 0;
     padding: 0;
 }
+
+
+.row{margin-right:0px;}
